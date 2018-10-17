@@ -1,0 +1,10 @@
+C:\Users\saishouyuu\source\repos\finder_windows\finder_windows\bin\Debug\finder_windows.exe.config
+C:\Users\saishouyuu\source\repos\finder_windows\finder_windows\bin\Debug\finder_windows.exe
+C:\Users\saishouyuu\source\repos\finder_windows\finder_windows\bin\Debug\finder_windows.pdb
+C:\Users\saishouyuu\source\repos\finder_windows\finder_windows\obj\Debug\finder_windows.csprojAssemblyReference.cache
+C:\Users\saishouyuu\source\repos\finder_windows\finder_windows\obj\Debug\finder_windows.Form1.resources
+C:\Users\saishouyuu\source\repos\finder_windows\finder_windows\obj\Debug\finder_windows.Properties.Resources.resources
+C:\Users\saishouyuu\source\repos\finder_windows\finder_windows\obj\Debug\finder_windows.csproj.GenerateResource.cache
+C:\Users\saishouyuu\source\repos\finder_windows\finder_windows\obj\Debug\finder_windows.csproj.CoreCompileInputs.cache
+C:\Users\saishouyuu\source\repos\finder_windows\finder_windows\obj\Debug\finder_windows.exe
+C:\Users\saishouyuu\source\repos\finder_windows\finder_windows\obj\Debug\finder_windows.pdb
